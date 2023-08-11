@@ -1,0 +1,14 @@
+{
+  "name": "Daniel",
+  "age": 27,
+  "isProgrammer": true,
+  "hobbies": ["Weight Lifting", "Table Tennis", "Running"],
+  "friends": [
+    {
+      "name": "James",
+      "favouriteNumber": 100,
+      "isProgrammer": false,
+      "friends": ["..."]
+    }
+  ]
+}
