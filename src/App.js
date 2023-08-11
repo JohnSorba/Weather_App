@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
 
-import Header from "./Header";
-import CurrentWeather from "./CurrentWeather";
-import SearchBar from "./SearchBar";
-import Forecast from "./Forecast";
-import Degree from "./Degree";
+import Header from "./components/Header";
+import CurrentWeather from "./components/CurrentWeather";
+import SearchBar from "./components/SearchBar";
+import Forecast from "./components/Forecast";
+import Degree from "./components/Degree";
 // import DayForecast from "./DayForecast";
 
 const API_KEY = "64b21f3e1bac2b2f4ec7d71942e8cbc4";
